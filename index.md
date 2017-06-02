@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi, i'm Matheus Cardoso, 21 year-old developer based in Brazil, currently working on awesome Backend stuff.
