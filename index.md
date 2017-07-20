@@ -9,15 +9,19 @@ I'm a versatile developer, i have experience in many areas of software developme
 
 * Game Development (VR, Desktop and Mobile)
 * Native App Development (iPhone, iPad and Apple TV)
-* Backend Development 
+* Backend Development
 
-|![me talking](/assets/about/me_vr_1.jpg){:class="img-responsive"}|![me talking](/assets/about/me_vr_2.jpg){:class="img-responsive"}|
+|![me wwdc](/assets/about/me_wwdc_1.jpg){:class="img-responsive"}|![me wwdc](/assets/about/me_wwdc_2.jpg){:class="img-responsive"}|
 
->##### research: VR for treatment of children with Cerebral Palsy @ NASH IFCE 2015
+>##### wwdc: attending as a Scholarship Winner @ WWDC San Jose 2017
 
 |![me talking](/assets/about/me_talk_1.jpg){:class="img-responsive"}|![me talking](/assets/about/me_talk_2.jpg){:class="img-responsive"}|
 
 >##### talk: "Agile Mobile Game Development" @ CocoaHeads Fortaleza 2017
+
+|![me vr](/assets/about/me_vr_1.jpg){:class="img-responsive"}|![me vr](/assets/about/me_vr_2.jpg){:class="img-responsive"}|
+
+>##### research: VR for treatment of children with Cerebral Palsy @ NASH IFCE 2015
  
 So far i've been a Mobile and VR Game Developer, App Developer and currently a Backend Developer.
 
