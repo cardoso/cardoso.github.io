@@ -21,7 +21,7 @@ I've been a recurring speaker at local events such as CocoaHeads and Pytalks, sh
 
 >##### research: VR for treatment of children with Cerebral Palsy @ NASH IFCE 2015
 
-Here are *some* of the technologies i'm familiar with:
+Here are *some* of the technologies I'm familiar with:
 
 ![swift](/assets/icons/swift.png){:class="img-responsive" style="width:100px;"}
 ![c sharp](/assets/icons/c_sharp.png){:class="img-responsive" style="width:100px;"}
