@@ -8,11 +8,6 @@ Hi, I am Matheus Cardoso! I'm a 22-year old developer and Open Source enthusiast
 Before working at Rocket.Chat, I was an Apple Developer Academy scholar for 2 years where I had the pleasure of being a WWDC Scholarship recipient.
 
 I've been a recurring speaker at local events such as CocoaHeads and Pytalks, sharing knowledge and spreading the word about Open Source.
-I have experience in many areas including:
-
-* Game Development (VR, Desktop and Mobile)
-* Native App Development (iPhone, iPad and Apple TV)
-* Backend Development
 
 |![me wwdc](/assets/about/me_wwdc_1.jpg){:class="img-responsive"}|![me wwdc](/assets/about/me_wwdc_2.jpg){:class="img-responsive"}|
 
