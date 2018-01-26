@@ -20,8 +20,6 @@ I've been a recurring speaker at local events such as CocoaHeads and Pytalks, sh
 |![me vr](/assets/about/me_vr_1.jpg){:class="img-responsive"}|![me vr](/assets/about/me_vr_2.jpg){:class="img-responsive"}|
 
 >##### research: VR for treatment of children with Cerebral Palsy @ NASH IFCE 2015
- 
-So far i've been a Mobile and VR Game Developer, Backend Developer, and currently an App Developer.
 
 Here are *some* of the technologies i'm familiar with:
 
