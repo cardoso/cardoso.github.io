@@ -3,9 +3,12 @@ layout: page
 permalink: /
 ---
 
-Hi, i'm Matheus Cardoso, 21 year-old developer based in Brazil, currently working on awesome Backend stuff.
+Hi, I am Matheus Cardoso! I'm a 22-year old developer and Open Source enthusiast based in Brazil. Today, I work remotely for Rocket.Chat, an Open Source Self-Hosted alternative to Slack. (https://rocket.chat). 
 
-I'm a versatile developer, i have experience in many areas of software development including:
+Before working at Rocket.Chat, I was an Apple Developer Academy scholar for 2 years where I had the pleasure of being a WWDC Scholarship recipient.
+
+I've been a recurring speaker at local events such as CocoaHeads and Pytalks, sharing knowledge and spreading the word about Open Source.
+I have experience in many areas including:
 
 * Game Development (VR, Desktop and Mobile)
 * Native App Development (iPhone, iPad and Apple TV)
@@ -23,7 +26,7 @@ I'm a versatile developer, i have experience in many areas of software developme
 
 >##### research: VR for treatment of children with Cerebral Palsy @ NASH IFCE 2015
  
-So far i've been a Mobile and VR Game Developer, App Developer and currently a Backend Developer.
+So far i've been a Mobile and VR Game Developer, Backend Developer, and currently an App Developer.
 
 Here are *some* of the technologies i'm familiar with:
 
