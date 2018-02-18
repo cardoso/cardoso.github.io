@@ -16,17 +16,25 @@ struct Person {
     let sex: Sex
 }
 
-let john = Person(name: "John", age: 24, sex: .male)
+let john = Person(
+    name: "John", 
+    age: 24, 
+    sex: .male
+)
 ```
-*Code like this is beautiful, but, in Swift, it comes with a problem*
+*Code like this is beautiful, but, in Swift, some operations may be convoluted*
 
 What if John decides to clone himself?
 
 ```swift
-let james = Person(name: "James", age: john.age, sex: john.sex)
+let james = Person(
+    name: "James", 
+    age: john.age, 
+    sex: john.sex
+)
 ```
 
-See the problem?
+See the problem? It's kind of verbose, and what if we had a dozen properties in `struct Person`?
 
 In Javascript we have the "spread" operator:
 
@@ -145,4 +153,21 @@ extension {{type.name}} {
 {% endraw %}
 ```
 
+This lets us do this with any struct or class that conforms to `Spreadable`:
+
+```swift
+let john = Person(
+    name: "John", 
+    age: 24, 
+    sex: .male
+)
+
+let james = Person(
+    ...john, 
+    name: "James"
+)
+```
+
 Of course, this doesn't encompass all of the spread operator's functionality in JavaScript, but it's a very useful part of it and we get to keep Swift's type-safety features :)
+
+I think the spread operator - or something similar - would be a very welcome addition to Swift!
