@@ -5,6 +5,9 @@ permalink: /portfolio
 ---
 {% raw %}
 
+<blockquote class="embedly-card"><h4><a href="https://apps.apple.com/us/app/rocket-chat/id1148741252">‎Rocket.Chat</a></h4><p>‎Rocket.Chat is a free and open source team chat collaboration platform that allows users to communicate securely in real-time across devices on web, desktop or mobile and to customize their interface with a range of plugins, themes and integrations with other key software. By opting for Rocket.Cha...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card" data-card-theme="dark"><h4><a href="http://github.com/cardoso">cardoso (Matheus Cardoso)</a></h4><p>cardoso has 37 repositories available. Follow their code on GitHub.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
