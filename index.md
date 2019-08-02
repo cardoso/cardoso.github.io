@@ -13,4 +13,4 @@ Before working at Rocket.Chat, I was an Apple Developer Academy scholar for 2 ye
 
 I've been a recurring speaker in international events such as AltConf in 2018 and 2019, and a recurring speaker at local and national events such as CocoaHeads, Pytalks and TDC, sharing knowledge and spreading the word about Open Source.
 
-I was also a mentor for Google Summer of Code in 2018 and Admin in 2019, having attended the 2018 summit in California.
+I was also a mentor for Google Summer of Code in 2018 and Admin in 2019, having attended the 2018 summit in Sunnyvale, California.
