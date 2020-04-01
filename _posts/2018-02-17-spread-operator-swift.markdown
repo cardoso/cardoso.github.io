@@ -7,7 +7,7 @@ categories: swift sourcery
 
 ```swift
 enum Sex {
-    case male, female
+    case male, female, other
 }
 
 struct Person {
@@ -41,7 +41,8 @@ In Javascript we have the "spread" operator:
 ```javascript
 const Sex = {
     MALE: 0,
-    FEMALE: 1
+    FEMALE: 1,
+    OTHER: 2,
 }
 
 const john = {
