@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-Hi, I am Matheus Cardoso! I'm a developer and Open Source enthusiast based in Brazil.
+Hi. I'm Matheus Cardoso! I'm a developer and Open Source enthusiast based in Brazil.
 
 I've been a recurring speaker in international events such as AltConf in 2018 and 2019, and a recurring speaker at local and national events such as CocoaHeads, Pytalks and TDC, sharing knowledge and spreading the word about Open Source.
 
