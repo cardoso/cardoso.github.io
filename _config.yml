@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Matheus Cardoso
-title: Developer Advocate
+title: Developer & Writer
 email: matheus@cardo.so
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,7 +52,11 @@ youtube_username: jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I like coding, writing, speaking, meditation and other things :)
+Hi. I'm Matheus Cardoso! I'm a developer and Open Source enthusiast based in Brazil.
+
+I've been a recurring speaker in international events such as AltConf in 2018 and 2019, DeveloperWeek in 2021, and a recurring speaker at local and national events such as CocoaHeads, Pytalks and TDC, sharing knowledge and spreading the word about Open Source.
+
+I was also a mentor for Google Summer of Code in 2018 and Admin in 2019, having attended the 2018 summit in Sunnyvale, California and the 2019 summit in Munich, Germany.
 
 content:
   - title: Projects # Title for the section
