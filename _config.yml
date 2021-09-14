@@ -34,10 +34,10 @@ youtube_username: jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+ additional_links:
+ - title: Medium
+   icon: fa-medium
+   url: https://medium.com/@cardosodev
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,15 +52,17 @@ youtube_username: jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi! 👋 I'm Matheus Cardoso. I'm a Developer Advocate, Speaker, and Technical Writer.
+ Hi! 👋 I'm Matheus Cardoso. I'm a Developer Advocate, Conference Speaker, and Technical Writer.
+
+ I've worked at worldwide companies such as **[Rocket.Chat](https://rocket.chat)**, **[Virgil Security](https://virgilsecurity.com)** and **[Stream](https://getstream.io)**.
 
  I've been a recurring appearance at worldwide events such as **[AltConf](https://altconf.com)**, **[DeveloperWeek](https://developerweek.com)**, and **[Swift Heroes](https://swiftheroes.com)**. 
 
  I'm also a mentor and admin for **[Google Summer of Code](https://summerofcode.withgoogle.com)**, having attended summits held in Sunnyvale, California and in Munich, Germany.
 
- As a huge fan of Apple platforms, I've developed several libraries and applications written in **Swift** and **Objective-C**, and won the **WWDC Scholarship** prize.
+ As a huge fan of Apple platforms, I've developed several libraries and applications written in **Swift** and **Objective-C**, and I've won the **WWDC Scholarship** prize.
 
-#content:
+content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -102,12 +104,12 @@ about_content: | # this will include new lines to allow paragraphs
 #          Short institution or course description (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-#
-#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
