@@ -52,9 +52,9 @@ youtube_username: jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi! 👋 I'm Matheus Cardoso. I'm a Developer Advocate and Technical Writer.
+ Hi! 👋 I'm Matheus Cardoso. I'm a Developer Advocate, Speaker, and Technical Writer.
 
- I've been a recurring speaker at worldwide events such as **[AltConf](https://altconf.com)**, **[DeveloperWeek](https://developerweek.com)**, and **[Swift Heroes](https://swiftheroes.com)**. 
+ I've been a recurring appearance at worldwide events such as **[AltConf](https://altconf.com)**, **[DeveloperWeek](https://developerweek.com)**, and **[Swift Heroes](https://swiftheroes.com)**. 
 
  I'm also a mentor and admin for **[Google Summer of Code](https://summerofcode.withgoogle.com)**, having attended summits held in Sunnyvale, California and in Munich, Germany.
 
