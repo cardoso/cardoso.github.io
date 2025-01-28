@@ -6,10 +6,10 @@ hero:
   name: "Matheus Cardoso"
   text: "Developer"
   tagline: Full-Stack Engineer & Open Source Enthusiast
-  # actions:
-  #   - theme: brand
-  #     text: Markdown Examples
-  #     link: /markdown-examples
+  actions:
+    - theme: brand
+      text: View on GitHub
+      link: https://github.com/cardoso
   #   - theme: alt
   #     text: API Examples
   #     link: /api-examples
