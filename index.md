@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: View on GitHub
       link: https://github.com/cardoso
-  #   - theme: alt
-  #     text: API Examples
-  #     link: /api-examples
+    - theme: alt
+      text: LinkedIn
+      link: https://www.linkedin.com/in/cardosodev/
 
 features:
   - icon: ⚡️
@@ -30,7 +30,5 @@ features:
     details: A language empowering everyone to build reliable and efficient software.
     link: https://github.com/search?q=org%3Arust-lang+author%3Acardoso&type=commits
     linkText: Contributions
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
