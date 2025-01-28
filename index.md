@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Matheus Cardoso"
   text: "Developer"
-  tagline: My great project tagline
+  tagline: Full-Stack Engineer & Open Source Enthusiast
   actions:
     - theme: brand
       text: Markdown Examples
