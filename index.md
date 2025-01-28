@@ -22,7 +22,11 @@ features:
   - icon: 🚀
     title: Rocket.Chat
     details: The communications platform that puts data protection first.
-    link: https://github.com/RocketChat/Rocket.Chat/pulls?q=is%3Amerged+author%3Acardoso+sort%3Acomments-desc
+    link: https://github.com/search?q=org%3ARocketChat+author%3Acardoso&type=commits
+  - icon: 🦀
+    title: Rust
+    details: A language empowering everyone to build reliable and efficient software.
+    link: https://github.com/search?q=org%3Arust-lang+author%3Acardoso&type=commits
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
