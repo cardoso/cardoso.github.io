@@ -4,5 +4,5 @@ const { Layout } = DefaultTheme;
 </script>
 
 <template>
-  <Layout/>
+  <Layout />
 </template>

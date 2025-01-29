@@ -1,4 +1,4 @@
-import { createContentLoader, type HeadConfig } from 'vitepress'
+import { createContentLoader } from 'vitepress'
 
 interface Post {
   title: string
@@ -7,20 +7,17 @@ interface Post {
     time: number
     string: string
   }
-  excerpt: string | undefined
 }
 
 declare const data: Post[]
 export { data }
 
 export default createContentLoader('blog/*.md', {
-  excerpt: true,
   transform(raw): Post[] {
     return raw
-      .map(({ url, excerpt, frontmatter }) => ({
+      .map(({ url, frontmatter }) => ({
         title: frontmatter.title,
         url,
-        excerpt,
         date: formatDate(frontmatter.date),
       }))
       .sort((a, b) => b.date.time - a.date.time)

@@ -2,12 +2,7 @@
 title: Vite Plugin LWC
 date: 2024-01-29
 ---
-
-Vite plugin for Lightning Web Components.
-
----
-
-[[TOC]]
+# Vite Plugin LWC
 
 ## Installation
 

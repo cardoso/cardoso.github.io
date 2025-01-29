@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { data as posts } from '../../../_data/blog.data'
+import { data as posts } from './blog.data'
 
 function getDateTime(time: number) {
   return new Date(time).toISOString()
@@ -8,14 +8,12 @@ function getDateTime(time: number) {
 
 <template>
   <ul class="blog-list">
-    <li class="blog-entry" v-for="{ date, url, title, excerpt } of posts">
+    <li class="blog-entry" v-for="{ date, url, title } of posts">
       <article>
         <time :datetime="getDateTime(date.time)">{{ date.string }}</time>
         <h2 class="title">
           <a :href="url">{{ title }}</a>
         </h2>
-        <div v-if="excerpt" class="prose dark:prose-invert max-w-none text-gray-500 dark:text-gray-300"
-          v-html="excerpt"></div>
       </article>
     </li>
   </ul>
