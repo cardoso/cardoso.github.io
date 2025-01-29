@@ -1,3 +1,7 @@
-import Theme from 'vitepress/theme-without-fonts'
+import type { Theme } from 'vitepress';
+import DefaultTheme from 'vitepress/theme-without-fonts';
 
-export default Theme
+export default {
+  extends: DefaultTheme,
+  Layout: DefaultTheme.Layout,
+} satisfies Theme

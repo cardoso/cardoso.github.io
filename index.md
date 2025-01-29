@@ -17,7 +17,7 @@ hero:
 features:
   - icon: ⚡️
     title: Lightning Web Components
-    details: A Blazing Fast, Enterprise-Grade Web Components Foundation.
+    details: A Blazing Fast, Enterprise-Grade Web Components Foundation by Salesforce.
     link: https://github.com/search?q=org%3Asalesforce+author%3Acardoso+is%3Amerged&type=pullrequests&s=comments&o=desc
     linkText: Contributions
   - icon: 🚀
