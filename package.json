@@ -1,4 +1,6 @@
 {
+  "type": "module",
+  "private": true,
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.2"
   },
