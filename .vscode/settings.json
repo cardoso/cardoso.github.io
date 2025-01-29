@@ -3,5 +3,8 @@
     "vue.server.includeLanguages": [
         "vue",
         "markdown"
-    ]
+    ],
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
 }
