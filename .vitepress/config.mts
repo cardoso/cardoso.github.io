@@ -7,11 +7,11 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
-  themeConfig: {
+  themeConfig: {logo: '/favicon.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'Blog', link: '/blog/' }
+      // { text: 'Blog', link: '/blog' }
     ],
 
     sidebar: [
